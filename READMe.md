@@ -22,7 +22,7 @@ Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comece
   <a href = "mailto:luizintrepido@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizintrepido" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/luizintrepido/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luizintrepido/luizintrepido/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <br>
