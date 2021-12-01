@@ -1,4 +1,6 @@
-Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comecei na programação como quem não queria nada, mas hoje sou um apaixonado por essa área. Acredito que através da tecnologia podemos mudar o rumo da humanidade, e quero fazer parte dessa mudança. Meu maior objetivo é impactar a vida das pessoas com a minha capacidade de solucionar problemas.
+<p>Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comecei na programação como quem não queria nada, mas hoje sou um apaixonado por essa área. 
+ <br>
+  <br>Acredito que através da tecnologia podemos mudar o rumo da humanidade, e quero fazer parte dessa mudança. Meu maior objetivo é impactar a vida das pessoas com a minha capacidade de solucionar problemas.</p>
 
 <div align="center">
   <a href="https://github.com/luizintrepido">
