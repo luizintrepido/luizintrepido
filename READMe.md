@@ -25,3 +25,4 @@ Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comece
   ![Snake animation](https://github.com/luizintrepido/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<br>
