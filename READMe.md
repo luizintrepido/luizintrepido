@@ -14,6 +14,11 @@ Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comece
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
  </div>
+  
+  - 📘 Graduando em Análise e Desenvolvimento de Sistemas
+- 🎓 Aluno da [Origamid](https://www.origamid.com/), com conclusão dos cursos de [Web Design Completo](https://www.origamid.com/certificate/818a1d1b/), [CSS Flexbox
+](https://www.origamid.com/certificate/a486c284//) 
+- 🌱 Praticando JavaScript e estudando React.
  
  ##
  
