@@ -1,7 +1,13 @@
-<p>Olá, tudo bem? Meu nome é Luiz, tenho 28 anos e sou de Praia Grande-SP. Comecei na programação como quem não queria nada, mas hoje sou um apaixonado por essa área. 
- <br>
-  <br>Acredito que através da tecnologia podemos mudar o rumo da humanidade, e quero fazer parte dessa mudança. Meu maior objetivo é impactar a vida das pessoas com a minha capacidade de solucionar problemas.</p>
+<h1>Olá eu sou o Luiz
+ 
+ ##
+  
+- 🎓 Aluno da [Origamid](https://www.origamid.com/), com conclusão dos cursos de [Web Design Completo](https://www.origamid.com/certificate/818a1d1b/), [CSS Flexbox
+](https://www.origamid.com/certificate/a486c284//) 
+- 🎓Graduando em Análise e Desenvolvimento de Sistemas
+- 🌱 Praticando JavaScript e estudando React.
 
+ 
 <div align="center">
   <a href="https://github.com/luizintrepido">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizintrepido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,10 +26,6 @@
   ##
   
 
-- 🎓 Aluno da [Origamid](https://www.origamid.com/), com conclusão dos cursos de [Web Design Completo](https://www.origamid.com/certificate/818a1d1b/), [CSS Flexbox
-](https://www.origamid.com/certificate/a486c284//) 
-- 🎓Graduando em Análise e Desenvolvimento de Sistemas
-- 🌱 Praticando JavaScript e estudando React.
  
  ##
  
